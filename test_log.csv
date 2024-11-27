@@ -1,0 +1,338 @@
+2024-11-19T22:45:08.766657,testuser,cd nonexistent
+2024-11-19T22:45:08.766657,testuser,cd
+2024-11-19T22:45:08.767719,testuser,exit
+2024-11-19T22:45:08.768730,testuser,find file.txt
+2024-11-19T22:45:08.768730,testuser,find
+2024-11-19T22:45:08.769780,testuser,find nonexistent.txt
+2024-11-19T22:45:08.770889,testuser,ls
+2024-11-19T22:45:08.770889,testuser,ls nonexistent
+2024-11-19T22:45:08.771971,testuser,ls folder
+2024-11-19T22:45:08.773051,testuser,rm file.txt
+2024-11-19T22:45:08.773051,testuser,rm nonexistent
+2024-11-19T22:59:27.445789,testuser,cd nonexistent
+2024-11-19T22:59:27.445789,testuser,cd
+2024-11-19T22:59:27.445789,testuser,exit
+2024-11-19T22:59:27.445789,testuser,find file.txt
+2024-11-19T22:59:27.445789,testuser,find
+2024-11-19T22:59:27.445789,testuser,find nonexistent.txt
+2024-11-19T22:59:27.445789,testuser,ls
+2024-11-19T22:59:27.445789,testuser,ls nonexistent
+2024-11-19T22:59:27.462016,testuser,ls folder
+2024-11-19T22:59:27.462016,testuser,rm file.txt
+2024-11-19T22:59:27.462016,testuser,rm nonexistent
+2024-11-20T17:48:53.905354,testuser,cd nonexistent
+2024-11-20T17:48:53.905354,testuser,cd
+2024-11-20T17:48:53.920990,testuser,exit
+2024-11-20T17:48:53.920990,testuser,find file.txt
+2024-11-20T17:48:53.920990,testuser,find
+2024-11-20T17:48:53.920990,testuser,find nonexistent.txt
+2024-11-20T17:48:53.920990,testuser,ls
+2024-11-20T17:48:53.920990,testuser,ls nonexistent
+2024-11-20T17:48:53.936606,testuser,ls folder
+2024-11-20T17:48:53.936606,testuser,rm file.txt
+2024-11-20T17:48:53.936606,testuser,rm nonexistent
+2024-11-20T18:13:41.381894,testuser,cd nonexistent
+2024-11-20T18:13:41.397524,testuser,cd
+2024-11-20T18:13:41.397524,testuser,exit
+2024-11-20T18:13:41.397524,testuser,find file.txt
+2024-11-20T18:13:41.397524,testuser,find
+2024-11-20T18:13:41.397524,testuser,find nonexistent.txt
+2024-11-20T18:13:41.397524,testuser,ls
+2024-11-20T18:13:41.397524,testuser,ls nonexistent
+2024-11-20T18:13:41.413150,testuser,ls folder
+2024-11-20T18:13:41.415678,testuser,rm file.txt
+2024-11-20T18:13:41.415678,testuser,rm nonexistent
+2024-11-20T19:28:18.350213,testuser,cd nonexistent
+2024-11-20T19:28:18.350213,testuser,cd
+2024-11-20T19:28:18.350213,testuser,exit
+2024-11-20T19:28:18.350213,testuser,find file.txt
+2024-11-20T19:28:18.350213,testuser,find
+2024-11-20T19:28:18.365839,testuser,find nonexistent.txt
+2024-11-20T19:28:18.365839,testuser,ls
+2024-11-20T19:28:18.365839,testuser,ls nonexistent
+2024-11-20T19:28:18.365839,testuser,ls folder
+2024-11-20T19:28:18.365839,testuser,rm file.txt
+2024-11-20T19:28:18.365839,testuser,rm nonexistent
+2024-11-23T18:26:30.258176,testuser,cd nonexistent
+2024-11-23T18:26:30.267174,testuser,cd
+2024-11-23T18:26:30.269889,testuser,exit
+2024-11-23T18:26:30.269889,testuser,find file.txt
+2024-11-23T18:26:30.269889,testuser,find
+2024-11-23T18:26:30.269889,testuser,find nonexistent.txt
+2024-11-23T18:26:30.279576,testuser,ls
+2024-11-23T18:26:30.281156,testuser,ls nonexistent
+2024-11-23T18:26:30.283627,testuser,ls folder
+2024-11-23T18:26:30.284804,testuser,rm file.txt
+2024-11-23T18:26:30.305653,testuser,rm nonexistent
+2024-11-23T18:34:14.679493,testuser,cd nonexistent
+2024-11-23T18:34:14.679493,testuser,cd
+2024-11-23T18:34:14.694916,testuser,exit
+2024-11-23T18:34:14.694916,testuser,find file.txt
+2024-11-23T18:34:14.694916,testuser,find
+2024-11-23T18:34:14.694916,testuser,find nonexistent.txt
+2024-11-23T18:34:14.694916,testuser,ls
+2024-11-23T18:34:14.694916,testuser,ls nonexistent
+2024-11-23T18:34:14.694916,testuser,ls folder
+2024-11-23T18:34:14.710542,testuser,rm file.txt
+2024-11-23T18:34:14.710542,testuser,rm nonexistent
+2024-11-23T18:35:48.022519,testuser,cd nonexistent
+2024-11-23T18:35:48.022519,testuser,cd
+2024-11-23T18:35:48.030451,testuser,exit
+2024-11-23T18:35:48.033934,testuser,find file.txt
+2024-11-23T18:35:48.035751,testuser,find
+2024-11-23T18:35:48.037825,testuser,find nonexistent.txt
+2024-11-23T18:35:48.039664,testuser,ls
+2024-11-23T18:35:48.041390,testuser,ls nonexistent
+2024-11-23T18:35:48.043799,testuser,ls folder
+2024-11-23T18:35:48.106290,testuser,rm nonexistent
+2024-11-23T18:38:15.559066,testuser,cd nonexistent
+2024-11-23T18:38:15.559066,testuser,cd
+2024-11-23T18:38:15.559066,testuser,exit
+2024-11-23T18:38:15.559066,testuser,find file.txt
+2024-11-23T18:38:15.559066,testuser,find
+2024-11-23T18:38:15.559066,testuser,find nonexistent.txt
+2024-11-23T18:38:15.559066,testuser,ls
+2024-11-23T18:38:15.559066,testuser,ls nonexistent
+2024-11-23T18:38:15.559066,testuser,ls folder
+2024-11-23T18:38:15.613237,testuser,rm nonexistent
+2024-11-23T18:39:14.946022,testuser,cd nonexistent
+2024-11-23T18:39:14.948027,testuser,cd
+2024-11-23T18:39:14.948027,testuser,exit
+2024-11-23T18:39:14.948027,testuser,find file.txt
+2024-11-23T18:39:14.963660,testuser,find
+2024-11-23T18:39:14.967463,testuser,find nonexistent.txt
+2024-11-23T18:39:14.967463,testuser,ls
+2024-11-23T18:39:14.970733,testuser,ls nonexistent
+2024-11-23T18:39:14.972437,testuser,ls folder
+2024-11-23T18:39:14.978178,testuser,rm nonexistent
+2024-11-23T18:40:12.126994,testuser,cd nonexistent
+2024-11-23T18:40:12.126994,testuser,cd
+2024-11-23T18:40:12.126994,testuser,exit
+2024-11-23T18:40:12.139610,testuser,find file.txt
+2024-11-23T18:40:12.139610,testuser,find
+2024-11-23T18:40:12.142238,testuser,find nonexistent.txt
+2024-11-23T18:40:12.145057,testuser,ls
+2024-11-23T18:40:12.145057,testuser,ls nonexistent
+2024-11-23T18:40:12.146769,testuser,ls folder
+2024-11-23T18:40:12.149820,testuser,rm nonexistent
+2024-11-23T18:41:22.914988,testuser,cd nonexistent
+2024-11-23T18:41:22.930223,testuser,cd
+2024-11-23T18:41:22.930223,testuser,exit
+2024-11-23T18:41:22.930223,testuser,find file.txt
+2024-11-23T18:41:22.930223,testuser,find
+2024-11-23T18:41:22.930223,testuser,find nonexistent.txt
+2024-11-23T18:41:22.930223,testuser,ls
+2024-11-23T18:41:22.930223,testuser,ls nonexistent
+2024-11-23T18:41:22.930223,testuser,ls folder
+2024-11-23T18:41:22.930223,testuser,rm nonexistent
+2024-11-23T18:41:48.395735,testuser,cd nonexistent
+2024-11-23T18:41:48.407966,testuser,cd
+2024-11-23T18:41:48.418727,testuser,exit
+2024-11-23T18:41:48.427887,testuser,find file.txt
+2024-11-23T18:41:48.437999,testuser,find
+2024-11-23T18:41:48.450272,testuser,find nonexistent.txt
+2024-11-23T18:41:48.461075,testuser,ls
+2024-11-23T18:41:48.471406,testuser,ls nonexistent
+2024-11-23T18:41:48.481206,testuser,ls folder
+2024-11-23T18:41:48.503106,testuser,rm nonexistent
+2024-11-23T18:43:20.524909,testuser,cd nonexistent
+2024-11-23T18:43:20.541045,testuser,cd
+2024-11-23T18:43:20.556186,testuser,exit
+2024-11-23T18:43:20.556186,testuser,find file.txt
+2024-11-23T18:43:20.571813,testuser,find
+2024-11-23T18:43:20.571813,testuser,find nonexistent.txt
+2024-11-23T18:43:20.587527,testuser,ls
+2024-11-23T18:43:20.603064,testuser,ls nonexistent
+2024-11-23T18:43:20.603064,testuser,ls folder
+2024-11-23T18:43:20.640175,testuser,rm nonexistent
+2024-11-23T18:45:07.546223,testuser,cd nonexistent
+2024-11-23T18:45:07.555344,testuser,cd
+2024-11-23T18:45:07.555344,testuser,exit
+2024-11-23T18:45:07.568302,testuser,find file.txt
+2024-11-23T18:45:07.575018,testuser,find
+2024-11-23T18:45:07.577084,testuser,find nonexistent.txt
+2024-11-23T18:45:07.581032,testuser,ls
+2024-11-23T18:45:07.586552,testuser,ls nonexistent
+2024-11-23T18:45:07.592480,testuser,ls folder
+2024-11-23T18:45:07.598294,testuser,rm file.txt
+2024-11-23T18:45:07.604339,testuser,rm nonexistent
+2024-11-23T18:46:36.047747,testuser,cd nonexistent
+2024-11-23T18:46:36.062258,testuser,cd
+2024-11-23T18:46:36.062258,testuser,exit
+2024-11-23T18:46:36.062258,testuser,find file.txt
+2024-11-23T18:46:36.081602,testuser,find
+2024-11-23T18:46:36.087399,testuser,find nonexistent.txt
+2024-11-23T18:46:36.089339,testuser,ls
+2024-11-23T18:46:36.098187,testuser,ls nonexistent
+2024-11-23T18:46:36.132414,testuser,ls folder
+2024-11-23T18:46:36.142592,testuser,rm folder
+2024-11-23T18:46:36.142592,testuser,rm
+2024-11-23T18:48:32.395331,testuser,cd nonexistent
+2024-11-23T18:48:32.406305,testuser,cd
+2024-11-23T18:48:32.411187,testuser,exit
+2024-11-23T18:48:32.420844,testuser,find file.txt
+2024-11-23T18:48:32.426557,testuser,find
+2024-11-23T18:48:32.431464,testuser,find nonexistent.txt
+2024-11-23T18:48:32.437236,testuser,ls
+2024-11-23T18:48:32.441548,testuser,ls nonexistent
+2024-11-23T18:48:32.446479,testuser,ls folder
+2024-11-23T18:48:32.451806,testuser,rm file.txt
+2024-11-23T18:48:32.458286,testuser,rm
+2024-11-23T18:50:25.683504,testuser,cd nonexistent
+2024-11-23T18:50:25.683504,testuser,cd
+2024-11-23T18:50:25.683504,testuser,exit
+2024-11-23T18:50:25.683504,testuser,find file.txt
+2024-11-23T18:50:25.683504,testuser,find
+2024-11-23T18:50:25.683504,testuser,find nonexistent.txt
+2024-11-23T18:50:25.699155,testuser,ls
+2024-11-23T18:50:25.699155,testuser,ls nonexistent
+2024-11-23T18:50:25.699155,testuser,ls folder
+2024-11-23T18:50:25.699155,testuser,rm file.txt
+2024-11-23T18:50:25.699155,testuser,rm
+2024-11-23T18:51:45.507544,testuser,cd nonexistent
+2024-11-23T18:51:45.510417,testuser,cd
+2024-11-23T18:51:45.514832,testuser,exit
+2024-11-23T18:51:45.516294,testuser,find file.txt
+2024-11-23T18:51:45.521442,testuser,find
+2024-11-23T18:51:45.524536,testuser,find nonexistent.txt
+2024-11-23T18:51:45.524536,testuser,ls
+2024-11-23T18:51:45.531361,testuser,ls nonexistent
+2024-11-23T18:51:45.533251,testuser,ls folder
+2024-11-23T18:51:45.533251,testuser,rm file.txt
+2024-11-23T18:51:45.541146,testuser,rm nonexistent
+2024-11-23T18:52:39.828529,testuser,cd nonexistent
+2024-11-23T18:52:39.828529,testuser,cd
+2024-11-23T18:52:39.828529,testuser,exit
+2024-11-23T18:52:39.837617,testuser,find file.txt
+2024-11-23T18:52:39.837617,testuser,find
+2024-11-23T18:52:39.837617,testuser,find nonexistent.txt
+2024-11-23T18:52:39.843709,testuser,ls
+2024-11-23T18:52:39.847041,testuser,ls nonexistent
+2024-11-23T18:52:39.849312,testuser,ls folder
+2024-11-23T18:52:39.851368,testuser,rm file.txt
+2024-11-23T18:52:39.856422,testuser,rm nonexistent
+2024-11-23T18:53:00.426342,testuser,cd nonexistent
+2024-11-23T18:53:00.426342,testuser,cd
+2024-11-23T18:53:00.432708,testuser,exit
+2024-11-23T18:53:00.432708,testuser,find file.txt
+2024-11-23T18:53:00.432708,testuser,find
+2024-11-23T18:53:00.439824,testuser,find nonexistent.txt
+2024-11-23T18:53:00.442866,testuser,ls
+2024-11-23T18:53:00.447187,testuser,ls nonexistent
+2024-11-23T18:53:00.448829,testuser,ls folder
+2024-11-23T18:53:00.450731,testuser,rm file.txt
+2024-11-23T18:53:00.454417,testuser,rm nonexistent
+2024-11-23T18:53:07.479424,testuser,cd nonexistent
+2024-11-23T18:53:07.485091,testuser,cd
+2024-11-23T18:53:07.485091,testuser,exit
+2024-11-23T18:53:07.489816,testuser,find file.txt
+2024-11-23T18:53:07.491784,testuser,find
+2024-11-23T18:53:07.491784,testuser,find nonexistent.txt
+2024-11-23T18:53:07.496657,testuser,ls
+2024-11-23T18:53:07.498857,testuser,ls nonexistent
+2024-11-23T18:53:07.500301,testuser,ls folder
+2024-11-23T18:53:07.503252,testuser,rm file.txt
+2024-11-23T18:53:07.503252,testuser,rm nonexistent
+2024-11-23T18:54:19.554425,testuser,cd nonexistent
+2024-11-23T18:54:19.560134,testuser,cd
+2024-11-23T18:54:19.562076,testuser,exit
+2024-11-23T18:54:19.564821,testuser,exit
+2024-11-23T18:54:19.566764,testuser,exit
+2024-11-23T18:54:19.569965,testuser,find file.txt
+2024-11-23T18:54:19.571513,testuser,find
+2024-11-23T18:54:19.573591,testuser,find nonexistent.txt
+2024-11-23T18:54:19.575084,testuser,ls
+2024-11-23T18:54:19.575084,testuser,ls nonexistent
+2024-11-23T18:54:19.575084,testuser,ls folder
+2024-11-23T18:54:19.575084,testuser,rm file.txt
+2024-11-23T18:54:19.585159,testuser,rm nonexistent
+2024-11-27T10:32:25.313868,testuser,cd nonexistent
+2024-11-27T10:32:25.315020,testuser,cd
+2024-11-27T10:32:25.315335,testuser,exit
+2024-11-27T10:32:25.315635,testuser,exit
+2024-11-27T10:32:25.315912,testuser,exit
+2024-11-27T10:32:25.316340,testuser,find file.txt
+2024-11-27T10:32:25.316609,testuser,find
+2024-11-27T10:32:25.317011,testuser,find nonexistent.txt
+2024-11-27T10:32:25.317427,testuser,ls
+2024-11-27T10:32:25.317828,testuser,ls nonexistent
+2024-11-27T10:32:25.318222,testuser,ls folder
+2024-11-27T10:32:25.318637,testuser,rm file.txt
+2024-11-27T10:32:25.319074,testuser,rm nonexistent
+2024-11-27T12:10:15.301944,testuser,cd nonexistent
+2024-11-27T12:10:15.303053,testuser,cd folder
+2024-11-27T12:10:15.303509,testuser,chmod 755 file.txt
+2024-11-27T12:10:15.303939,testuser,chmod 755
+2024-11-27T12:10:15.304362,testuser,exit
+2024-11-27T12:10:15.304798,testuser,ls
+2024-11-27T12:10:15.305286,testuser,rev file.txt
+2024-11-27T12:10:15.306783,testuser,rev nonexistent.txt
+2024-11-27T12:10:15.307246,testuser,tac file.txt
+2024-11-27T12:10:15.307676,testuser,tac nonexistent.txt
+2024-11-27T12:10:15.308086,testuser,unknowncmd
+2024-11-27T12:15:54.393307,testuser,cd nonexistent
+2024-11-27T12:15:54.394050,testuser,cd folder
+2024-11-27T12:15:54.394508,testuser,chmod 755 file.txt
+2024-11-27T12:15:54.394937,testuser,chmod 755
+2024-11-27T12:15:54.395360,testuser,exit
+2024-11-27T12:15:54.395800,testuser,ls
+2024-11-27T12:15:54.396293,testuser,rev file.txt
+2024-11-27T12:15:54.398001,testuser,rev nonexistent.txt
+2024-11-27T12:15:54.398458,testuser,tac file.txt
+2024-11-27T12:15:54.398896,testuser,tac nonexistent.txt
+2024-11-27T12:15:54.399327,testuser,unknowncmd
+2024-11-27T12:27:38.921254,testuser,cd nonexistent
+2024-11-27T12:27:38.921802,testuser,cd folder
+2024-11-27T12:27:38.922117,testuser,chmod 755 file.txt
+2024-11-27T12:27:38.922406,testuser,chmod 755
+2024-11-27T12:27:38.922692,testuser,exit
+2024-11-27T12:27:38.922976,testuser,ls
+2024-11-27T12:27:38.923273,testuser,rev file.txt
+2024-11-27T12:27:38.923945,testuser,rev nonexistent.txt
+2024-11-27T12:27:38.924241,testuser,tac file.txt
+2024-11-27T12:27:38.924527,testuser,tac nonexistent.txt
+2024-11-27T12:27:38.924802,testuser,unknowncmd
+2024-11-27T12:44:48.568720,testuser,cd nonexistent
+2024-11-27T12:44:48.569405,testuser,cd folder
+2024-11-27T12:44:48.569722,testuser,chmod 755 file.txt
+2024-11-27T12:44:48.570019,testuser,chmod 755
+2024-11-27T12:44:48.570300,testuser,exit
+2024-11-27T12:44:48.570582,testuser,ls
+2024-11-27T12:44:48.570880,testuser,rev file.txt
+2024-11-27T12:44:48.572209,testuser,rev nonexistent.txt
+2024-11-27T12:44:48.572509,testuser,tac file.txt
+2024-11-27T12:44:48.572795,testuser,tac nonexistent.txt
+2024-11-27T12:44:48.573069,testuser,unknowncmd
+2024-11-27T17:01:25.386319,testuser,cd nonexistent
+2024-11-27T17:01:25.387704,testuser,cd folder
+2024-11-27T17:01:25.388021,testuser,chmod 755 file.txt
+2024-11-27T17:01:25.388308,testuser,chmod 755
+2024-11-27T17:01:25.388590,testuser,exit
+2024-11-27T17:01:25.388875,testuser,ls
+2024-11-27T17:01:25.389173,testuser,rev file.txt
+2024-11-27T17:01:25.390195,testuser,rev nonexistent.txt
+2024-11-27T17:01:25.390489,testuser,tac file.txt
+2024-11-27T17:01:25.390772,testuser,tac nonexistent.txt
+2024-11-27T17:01:25.391044,testuser,unknowncmd
+2024-11-27T17:02:07.413743,testuser,cd nonexistent
+2024-11-27T17:02:07.414449,testuser,cd folder
+2024-11-27T17:02:07.414900,testuser,chmod 755 file.txt
+2024-11-27T17:02:07.415320,testuser,chmod 755
+2024-11-27T17:02:07.415739,testuser,exit
+2024-11-27T17:02:07.416167,testuser,ls
+2024-11-27T17:02:07.416649,testuser,rev file.txt
+2024-11-27T17:02:07.418569,testuser,rev nonexistent.txt
+2024-11-27T17:02:07.419030,testuser,tac file.txt
+2024-11-27T17:02:07.419467,testuser,tac nonexistent.txt
+2024-11-27T17:02:07.419882,testuser,unknowncmd
+2024-11-27T18:13:42.207986,testuser,cd nonexistent
+2024-11-27T18:13:42.209134,testuser,cd folder
+2024-11-27T18:13:42.209471,testuser,chmod 755 file.txt
+2024-11-27T18:13:42.209778,testuser,chmod 755
+2024-11-27T18:13:42.210077,testuser,exit
+2024-11-27T18:13:42.210379,testuser,ls
+2024-11-27T18:13:42.210693,testuser,rev file.txt
+2024-11-27T18:13:42.211639,testuser,rev nonexistent.txt
+2024-11-27T18:13:42.211954,testuser,tac file.txt
+2024-11-27T18:13:42.212297,testuser,tac nonexistent.txt
+2024-11-27T18:13:42.212617,testuser,unknowncmd
