@@ -78,3 +78,4 @@ class CommandHandler:
             return "\n".join(reversed(content.splitlines()))
         except FileNotFoundError as e:
             return str(e)
+#Первое изменение
