@@ -1,5 +1,5 @@
 # emulator.py
-
+#Первое изменение во второй ветке
 import argparse
 from commands import CommandHandler
 from filesystem import VirtualFileSystem
